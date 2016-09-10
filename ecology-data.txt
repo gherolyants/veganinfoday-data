@@ -1,0 +1,55 @@
+  
+{
+  title: "Влияние животноводства на экологию"
+  facts: [{
+    fact: "Одна корова выделяет в среднем *70-120 кг метана в год*, что эквивалентно количеству углекислого газа, производимого за год легковым автомобилем",
+    refs: [
+      "http://timeforchange.org/are-cows-cause-of-global-warming-meat-methane-CO2", 
+      "http://www.fao.org/docrep/010/a0701e/a0701e00.HTM", 
+      "http://www.worldwatch.org/node/6294"
+    ]
+  }, {
+    fact: "Метан по разным оценкам имеет в *25-84 раза более сильный парниковый эффект*, чем углекислый газ"
+    refs: [
+      "http://www.sciencemag.org/content/326/5953/716.figures-only", 
+      "https://www3.epa.gov/climatechange/ghgemissions/gases/ch4.html"
+    ]
+  }, {
+    fact: "По подсчётам экспертов *сельскохозяйственные животные ответственны за 51% ежегодно выбрасываемых парниковых газов*, в то время как весь транспорт на планете - лишь за 13%", 
+    refs: [
+      "http://www.worldwatch.org/node/6294"
+    ]
+  }, {
+    fact: "Срок жизни метана в атмосфере составляет *всего 10-12 лет*, что делает его идеальной целью для уменьшения парникового эффекта",
+    refs: [
+      "https://www3.epa.gov/climatechange/ghgemissions/gases/ch4.html"
+    ]
+  }, {
+    fact: "Сельскохозяйственные животные потребляют прмерно *третью часть всей пресной воды* на Земле и *50% всего мирового урожая зерновых*",
+    refs: [
+      "http://www.forksoverknives.com/freshwater-abuse-and-loss-where-is-it-all-go", 
+      "http://www.pnas.org/content/110/52/20888.full", 
+      "http://www.fao.org/docrep/v8180t/v8180t07.htm"
+    ]
+  }, {
+    fact: "От *30% до 50% лесов было сведено* с середины прошлого века в разных частях планеты под пастбища для скота",
+    refs: [
+      "https://www3.epa.gov/climatechange/ghgemissions/gases/ch4.html"
+    ]
+  }, {
+    fact: "В настоящее время пастбища и кормовые культуры занимают *30% всей поверхности суши*",
+    refs: [
+      "http://www.fao.org/newsroom/en/News/2006/1000448/index.html"
+    ]
+  }, {
+    fact: "Именно животноводство считается ответственным за происходящее сейчас *самое массовое вымирание видов* за последние 65 миллионов лет",
+    refs: [
+      "http://advances.sciencemag.org/content/1/5/e1400253.full"
+    ]
+  }, {
+    fact: "Сбрасываемые в реки и моря продукты жизнедеятельности сельскохозяйственных животных приводят к образованию многокилометровых мёртвых зон, насыщенных азотом",
+    refs: [
+      "http://www.noaanews.noaa.gov/stories2014/20140804_deadzone.html"
+    ]
+  }]
+}
